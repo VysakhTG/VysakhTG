@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![🔥](https://github-readme-stats.vercel.app/api/top-langs/?username=VysakhTG &theme=github_dark&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&layout=compact&hide_border=false)  
+![🔥](https://github-readme-stats.vercel.app/api/top-langs/?username=VysakhTG&theme=github_dark&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&layout=compact&hide_border=false)  
 
 </div>
 
