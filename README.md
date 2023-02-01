@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/Clinton-Abraham">
+<a href="https://github.com/VysakhTG">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VysakhTG#version3"/>
 </a>
 </p>
