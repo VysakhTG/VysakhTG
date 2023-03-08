@@ -15,8 +15,6 @@
 
 <p align="center">
    <a href="https://telegram.dog/VysakhTG><img src="https://img.shields.io/badge/Vʏsᴀᴋʜ ᡧ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
-   <a href="https://telegram.dog/Space_x_bots"><img src="https://img.shields.io/badge/Sᴘᴀᴄᴇ ✗ ʙᴏᴛꜱ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
-   <a href="https://telegram.dog/sources_codes"><img src="https://img.shields.io/badge/Sᴏᴜʀᴄᴇ ᴄᴏᴅᴇꜱ-30302f?style=flat&logo=telegram" alt="telegram badge"/>
 </p>
 
 <div align="center">
