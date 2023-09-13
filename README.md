@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/clintonabraham" class="padded"><img height="30" style="border:0px;height:25px;" align="left" alt="Clintonabraham" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0"/></a>
+<a href="https://www.buymeacoffee.com/vysakhtg" class="padded"><img height="30" style="border:0px;height:25px;" align="left" alt="vysakhtg" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0"/></a>
 
 </div>
 
